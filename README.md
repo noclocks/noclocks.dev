@@ -36,16 +36,6 @@
 
 [No Clocks, LLC](https://github.com/noclocks) is an avant-garde technology-based agency that brings together a dynamic team of Software Engineers, Web Developers, and Data Engineers. We thrive on innovation and our proficiency spans a multitude of programming languages and frameworks, making us a formidable force in technology consulting and development across various industries.
 
-## Repository
-
-This repository houses the codebase for our official website hosted at <https://noclocks.dev>.
-
-It serves as a digital showcase of our expertise and the services we offer, reflecting our commitment to excellence and our journey towards becoming an engineering powerhouse.
-
-### Project Structure
-
-`#TODO`
-
 ## Features
 
 - **Dynamic Web Presence**: Our website is designed to be responsive, engaging, and informative, providing an in-depth look at our services and the unique value we bring to our clients.
@@ -63,6 +53,27 @@ This project is built using a mix of cutting-edge technologies that include:
 - **Database and Content Management**:
 - **Third-Party API Integrations**:
 - **Artificial Intelligence Tooling**:
+
+## Repository
+
+This repository houses the codebase for our official website hosted at <https://noclocks.dev>.
+
+It serves as a digital showcase of our expertise and the services we offer, reflecting our commitment to excellence and our journey towards becoming an engineering powerhouse.
+
+### Project Structure
+
+`#TODO`
+
+The project structure is as follows:
+
+```plaintext
+.
+├── .github
+│   └── workflows
+│       └── build.yml
+├── .gitignore
+├── LICENSE
+```
 
 ### Tech-Stack
 
@@ -104,6 +115,14 @@ and populate `.env`:
 ...
 ```
 
+### Run Locally
+
+`#TODO`
+
+### Deployment
+
+`#TODO`
+
 ### Technical Documentation
 
 `#TODO`
@@ -112,9 +131,26 @@ and populate `.env`:
 
 `#TODO`
 
-### Deployment
+## Contributing
 
-`#TODO`
+We welcome contributions from the community, whether it's fixing bugs, improving the documentation, or proposing new features. Please read [CONTRIBUTING.md]() for details on our code of conduct and the process for submitting pull requests to us.
+
+## Contact Us
+
+- **Email**: [dev@noclocks.dev](mailto://dev@noclocks.dev)
+- **Phone**: [+1 (678) 491-4856](tel://+16784914856)
+
+## Connect
+
+## Connect with Us
+
+-   [LinkedIn](https://linkedin.com/company/noclocks)
+-   [Twitter](https://twitter.com/noclocksdev)
+-   [Stack Overflow]()
+-   [YouTube]()
+-   [GitHub Discussions]()
+
+Join us in redefining what's possible in technology and consulting by partnering with No Clocks, LLC – where technical prowess meets entrepreneurial vigor!
 
 ***
 
@@ -150,22 +186,3 @@ The `.github` directory contains the following files:
 - `dependabot.yml`: A default `dependabot.yml` file that can be used to configure Dependabot for the repository.
 
 - `workflows`: A directory that contains GitHub Actions workflows for the repository. Currently it contains the following workflow:
-
-
-
-
-## Project Structure
-
-The project structure is as follows:
-
-```plaintext
-.
-├── .github
-│   └── workflows
-│       └── build.yml
-├── .gitignore
-├── LICENSE
-
-
-
-Reneric Repository Template with Default Files and Structure
